@@ -1,0 +1,1024 @@
+---
+title: "CMI RA Didactics Event Schedule:"
+author: 
+date: "Last updated: `r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  html_document:
+    theme: flatly
+    toc: true
+    toc_depth: 6
+    toc_float: true
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+```
+
+<br>
+<br>
+
+
+# **Upcoming Events** 
+
+<br>
+
+- - -
+
+## _December 2019_ 
+
+- - - 
+
+<br>
+
+### **12/26/2019 - Protocol Review: TBD**
+
+**Presenters: TBD**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **12/19/2019 - Mindfulness**
+
+**Presenters: Reilly Gallin**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **12/12/2019 - Graduate School: Interviews and Decisions**
+
+**Presenters: TBD (Panel?)**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **12/5/2019 - Graduate School: Hear from a Professional**
+
+**Presenters: TBD (Panel?)**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _November 2019_
+
+- - - 
+
+<br>
+
+### **11/28/2019 - Thanksgiving Break: Office Closed**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: Happy Thanksgiving!*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **11/21/2019 - Protocol Review: HBN Sampling Strategy**
+
+**Presenters: TBD**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **11/14/2019 - Mindfulness**
+
+**Presenters: Reilly Gallin**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **11/7/2019 - Protocol Review: Rationale for Questionnaires/New Questionnaires (Rescheduled)**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: This event needs to be rescheduled.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _October 2019_
+
+- - - 
+
+<br>
+
+### **10/31/2019 - Clinical Case**
+
+**Presenters: Tori Connors and Nonny Mahachi**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **10/24/2019 - (Cancelled)**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: Session is cancelled this week.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **10/17/2019 - Clinical Case**
+
+**Presenters: Jordan Kaye and Meg Stomski**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **10/10/2019 - Protocol Review: Mindlogger and Actigraph (Rescheduled)**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: This event needs to be rescheduled.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **10/3/2019 - Graduate School: Personal Statement Workshop**
+
+**Presenters: Caroline Miller**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _September 2019_
+
+- - - 
+
+<br>
+
+### **9/26/2019 - Graduate School: Letters of Recommendation and Research Projects**
+
+**Presenters: Michael Milham**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+# **Past Events**
+
+<br>
+
+- - -
+
+## _September 2019_
+
+- - - 
+
+<br>
+
+### **9/19/2019 - MRI DNQ Criteria**
+
+**Presenters: Jacob DeRosa and MRI Team**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **9/12/2019 - Graduate School: Advice for Writing Personal Statements**
+
+**Presenters: Michael Milham**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **9/5/2019 - Clinical Case**
+
+**Presenters: Katie Moskowitz**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _August 2019_
+
+- - - 
+
+<br>
+
+### **8/29/2019 - Clinical Case**
+
+**Presenters: Reilly Gallin**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **8/22/2019 - Protocol Training: New Calendar**
+
+**Presenters: Camille Gregory**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **8/15/2019 - Protocol Training: Spandage and EEG**
+
+**Presenters: Jacob DeRosa**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **8/8/2019 - Mindfulness**
+
+**Presenters: Reilly Gallin and Jen Andersen**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **8/1/2019 - Graduate School: Deciding Whether and When to Apply**
+
+**Presenters: Batya Septimus and Panel**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _July 2019_
+
+- - - 
+
+<br>
+
+### **7/25/2019 - Clinical Case**
+
+**Presenters: Jordan Kaye**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **7/18/2019 - Clinical Case**
+
+**Presenters: Meg Stomski**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **7/11/2019 - CMI AllStaff Meeting**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: This is an all staff meeting.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **7/4/2019 - Independence Day: Office Closed**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: Happy July 4th!*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _June 2019_
+
+- - - 
+
+<br>
+
+### **6/27/2019 - Mindfulness**
+
+**Presenters: Reilly Gallin and Jen Andersen**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **6/20/2019 - (Cancelled)**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: Session is cancelled this week.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **6/13/2019 - (Cancelled)**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: Session is cancelled this week.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **6/6/2019 - Clincal Case**
+
+**Presenters: Erin Hunt**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _May 2019_
+
+- - - 
+
+<br>
+
+### **5/30/2019 - (Cancelled)**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: Session is canceled this week.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **5/23/2019 - Mindfulness**
+
+**Presenters: Reilly Gallin and Jen Andersen**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **5/16/2019 - Growth Mindset Intervention, Collaboration with HBN**
+
+**Presenters: Dr. Jessica Schleider and Stonybrook**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **5/9/2019 - CMI AllStaff Meeting**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: This is an all staff meeting.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **5/2/2019 - Protocol Review: EEG Cap Placement Practice**
+
+**Presenters: Camille, Giuseppe, Batya, and Lei**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _April 2019_
+
+- - - 
+
+<br>
+
+### **4/25/2019 - Statistical Methods**
+
+**Presenters: Michael Milham**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **4/18/2019 - Clinical Case**
+
+**Presenters: Haley Ringenary**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **4/11/2019 - Procotol Review: Rationale for Questionnaires/New Questionnaires (Rescheduled)**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: This event needs to be rescheduled.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **4/4/2019 - Mindfulness**
+
+**Presenters: Batya Septimus and Jen Andersen**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _March 2019_
+
+- - - 
+
+<br>
+
+### **3/28/2019 - Statistical Methods**
+
+**Presenters: Lindsay Alexander and Michael Milham**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **3/21/2019 - Protocol Review: Mindlogger and Actigraph (Rescheduled)**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: This event needs to be rescheduled.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **3/14/2019 - Clinical Case**
+
+**Presenters: Germeen Kilada**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **3/7/2019 - CMI AllStaff Meeting**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: This is an all staff meerting.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _February 2019_
+
+- - - 
+
+<br>
+
+### **2/28/2019 - Mindfulness**
+
+**Presenters: Amanda Greenspan and Jen Andersen**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **2/21/2019 - Statistical Methods**
+
+**Presenters: Lindsay Alexander and Michael Milham**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **2/14/2019 - Clinical Case**
+
+**Presenters: Abigail Felix and Katherine Sitler-Elbel**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **2/7/2019 - Protocol Review: RA Interview**
+
+**Presenters: Lindsay Alexander and Michael Milham**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+## _January 2019_
+
+- - -
+
+<br>
+
+### **1/31/2019 - Mindfulness**
+
+**Presenters: Amanda Greenspan and Jen Andersen**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **1/24/2019 - Clinical Case**
+
+**Presenters: Lianne Ramdhany**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - -
+
+<br>
+
+### **1/17/2019 - Protocol Review: RA Interview**
+
+**Presenters: Alexis Alexander and Anna Smith**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: N/A*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **1/10/2019 - CMI AllStaff Meeting**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: This is an all staff meeting.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
+
+<br>
+
+### **1/3/2019 - (Cancelled)**
+
+**Presenters: N/A**
+
+**Time: N/A**
+
+**Location: N/A**
+
+*Description: Session is cancelled this week.*
+
+*Calendar Link: N/A*
+
+<br>
+
+- - - 
