@@ -1,3 +1,3 @@
-# PRIME-info-request
-Webpage to visualize PRIME-DE global collaboration request for information survey:
-https://hotavocado.github.io/PRIME-info-request/
+# CMI_RA_Didactics
+Webpage to visualize past and upcoming events for CMI RA Didactics
+https://hotavocado.github.io/CMI_RA_Didactics/
