@@ -1,12 +1,14 @@
 # CMI_RA_Didactics
-Webpage to visualize past and upcoming events for CMI RA Didactics
+Webpage to visualize past and upcoming events for CMI RA Didactics:
 https://hotavocado.github.io/CMI_RA_Didactics/
+
+Use the event_templates.Rmd file to add new events.
 
 <br>
 
-# Event Template
+# Event Templates
 
-# [Default Events]----------------------------------------------------------------------------------------
+# [Default Events]--------------------
 
 ## [Clinical Case]
 
@@ -108,7 +110,7 @@ https://hotavocado.github.io/CMI_RA_Didactics/
 
 - - - 
 
-# [Abnormal Events]--------------------------------------------------------------------------------------
+# [Abnormal Events]--------------------
 
 ## [Cancelled Event]
 
