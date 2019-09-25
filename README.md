@@ -2,15 +2,18 @@
 Webpage to visualize past and upcoming events for CMI RA Didactics:
 https://hotavocado.github.io/CMI_RA_Didactics/
 
-Use the event_templates.Rmd file to add new events.
+Use the event_templates.Rmd file or the code below to add new events.
 
 <br>
 
-# Event Templates
+# Event Templates:
+
+<br>
 
 ## [Clinical Case]
 
-
+```
+<br>
 
 ### **M/D/YYYY - Clinical Case**
 
@@ -24,11 +27,16 @@ Use the event_templates.Rmd file to add new events.
 
 *Calendar Link: N/A*
 
+<br>
 
+- - - 
+
+```
 
 ## [Graduate School]
 
-
+```
+<br>
 
 ### **M/D/YYYY - Graduate School: [TITLE]**
 
@@ -42,11 +50,17 @@ Use the event_templates.Rmd file to add new events.
 
 *Calendar Link: N/A*
 
+<br>
 
+- - - 
+
+```
 
 ## [Mindfulness]
 
+```
 
+<br>
 
 ### **M/D/YYYY - Mindfulness**
 
@@ -60,11 +74,17 @@ Use the event_templates.Rmd file to add new events.
 
 *Calendar Link: N/A*
 
+<br>
 
+- - - 
+
+```
 
 ## [Protocol Review] 
 
+```
 
+<br>
 
 ### **M/D/YYYY - Protocol Review: [TITLE]**
 
@@ -78,10 +98,17 @@ Use the event_templates.Rmd file to add new events.
 
 *Calendar Link: N/A*
 
+<br>
 
+- - - 
+
+```
 
 ## [Statistical Methods]
 
+```
+
+<br>
 
 ### **M/D/YYYY - Statistical Methods**
 
@@ -95,10 +122,17 @@ Use the event_templates.Rmd file to add new events.
 
 *Calendar Link: N/A*
 
+<br>
+
+- - - 
+
+```
 
 ## [Cancelled Event]
 
+```
 
+<br>
 
 ### **M/D/YYYY - (Cancelled)**
 
@@ -112,10 +146,17 @@ Use the event_templates.Rmd file to add new events.
 
 *Calendar Link: N/A*
 
+<br>
+
+- - - 
+
+```
 
 ## [Rescheduled Event]
 
+```
 
+<br>
 
 ### **M/D/YYYY - [TITLE] (Rescheduled)**
 
@@ -129,10 +170,17 @@ Use the event_templates.Rmd file to add new events.
 
 *Calendar Link: N/A*
 
+<br>
+
+- - -
+
+```
 
 ## [AllStaff Meeting]
 
+```
 
+<br>
 
 ### **M/D/YYYY - CMI AllStaff Meeting**
 
@@ -146,5 +194,8 @@ Use the event_templates.Rmd file to add new events.
 
 *Calendar Link: N/A*
 
+<br>
 
+- - -
 
+```
